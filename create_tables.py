@@ -10,7 +10,7 @@ from sql_queries import drop_table_queries, create_table_queries
 logger = logging.getLogger(__name__)
 
 # name Keyspace
-KEYSPACE = "project2"
+KEYSPACE = "dm-cassandra"
 # filename for merged data
 FILENAME = "event_datafile_new.csv"
 
