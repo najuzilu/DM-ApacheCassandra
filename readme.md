@@ -16,7 +16,7 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 
 ## Description
 
-In this project, you will create an Apache Cassandra database which will host data collected on songs and user activity on Sparkify's new music streaming app.
+You will create an Apache Cassandra database which will host data collected on songs and user activity on Sparkify's new music streaming app.
 
 ### Tools
 
