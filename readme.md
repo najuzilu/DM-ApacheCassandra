@@ -3,7 +3,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/najuzilu/DM-ApacheCassandra">
-        <img src="./images/logo.png" alt="Logo" width="200" height="200">
+        <img src="./images/logo.png" alt="Logo" width="300" height="200">
     </a>
     <h3 align="center">Data Modeling with Cassandra</h3>
 </p>
