@@ -6,10 +6,7 @@
         <img src="./images/logo.png" alt="Logo" width="200" height="200">
     </a>
     <h3 align="center">Data Modeling with Cassandra</h3>
-    <br />
 </p>
-
-> apache cassandra, data engineering, ETL, star database schema, data modeling
 
 ## About The Project
 
