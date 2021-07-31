@@ -22,7 +22,6 @@ You will create an Apache Cassandra database which will host data collected on s
 
 * python
 * Apache Cassandra
-* Jupyter notebooks
 
 ## Datasets
 
