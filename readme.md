@@ -7,7 +7,6 @@
     </a>
     <h3 align="center">Data Modeling with Cassandra</h3>
     <br />
-    <br />
 </p>
 
 > apache cassandra, data engineering, ETL, star database schema, data modeling
